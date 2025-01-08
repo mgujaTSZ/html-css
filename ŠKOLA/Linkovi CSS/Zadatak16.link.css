@@ -1,0 +1,39 @@
+a:link {
+  color: blue;
+}
+
+#prvi:link {
+  background-color: red;
+}
+
+#drugi:link {
+  background-color: green;
+}
+
+#treci:link {
+  background-color: yellow;
+}
+
+a:hover {
+  background-color:white;
+  color:black;
+}
+
+
+
+#special:visited {
+  color: saddlebrown;
+  background-color: sandybrown;
+}
+#special:hover {
+  color: blue;
+  background-color: lightskyblue;
+}
+#special:active {
+  color: green;
+  background-color: lightgreen;
+}
+#special:link {
+  color: red;
+  background-color: lightpink;
+}

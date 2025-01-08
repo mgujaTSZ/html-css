@@ -1,0 +1,22 @@
+table {
+  border-collapse: collapse;
+  width: 50%;
+  margin: 20px auto;
+}
+
+th, td {
+  border: 1px solid pink; /* Samo jedan obrub */\n    padding: 10px;
+  text-align: right; /* Poravnanje dolje desno */ \n    vertical-align: bottom;
+}
+
+th {
+  background-color: #f8e8f8;
+}
+
+tr:nth-child(even) {
+  background-color: #fdfdfd;
+}
+
+tr:nth-child(odd) {
+  background-color: #ffe6ff;
+}

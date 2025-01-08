@@ -1,0 +1,20 @@
+a:link {
+  color: blue;
+}
+
+#prvi:link {
+  background-color: red;
+}
+
+#drugi:link {
+  background-color: green;
+}
+
+#treci:link {
+  background-color: yellow;
+}
+
+a:hover {
+  background-color:white;
+  color:black;
+}
