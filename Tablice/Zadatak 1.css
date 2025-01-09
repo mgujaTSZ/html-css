@@ -1,0 +1,12 @@
+table,td {
+   border-width: 3px;
+    border-style: solid;
+    border-color: lightpink;
+    border-collapse: collapse;
+    }
+tr:hover {
+    background-color: lightpink;
+}
+td:hover {
+    background-color: palevioletred;
+}
