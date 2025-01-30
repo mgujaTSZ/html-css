@@ -1,0 +1,14 @@
+p {
+    border: 1px solid black;
+    outline-style:double;
+}
+
+.thickred {
+outline-width: thick;
+outline-color: red;
+}
+
+.px3green {
+outline-width: 3px;
+outline-color: green;
+}
