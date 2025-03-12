@@ -1,0 +1,37 @@
+
+
+
+header {
+  background-color: #f15757;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 24px;
+}
+
+
+footer {
+  background-color: #2088a1;
+  text-align: center;
+  padding: 10px;
+  font-size: 18px;
+}
+
+
+.content {
+  display: flex;
+  flex-grow: 1;
+  padding: 20px;
+}
+
+aside {
+  width: 20%;
+  background-color: #f2a8a1;
+  padding: 20px;
+}
+
+main {
+  width: 80%;
+  background-color: #89ddc7;
+  padding: 20px;
+}

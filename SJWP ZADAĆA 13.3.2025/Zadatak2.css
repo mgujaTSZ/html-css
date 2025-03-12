@@ -1,0 +1,35 @@
+header {
+  background-color: #9466ed;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 24px;
+}
+
+
+footer {
+  background-color: #5a35e8;
+  text-align: center;
+  padding: 10px;
+  font-size: 18px;
+  color: white;
+}
+
+
+.glavno {
+  display: flex;
+  flex-grow: 1;
+  padding: 20px;
+}
+
+aside {
+  width: 200px;
+  background-color: #f8f69c;
+  padding: 20px;
+}
+
+main {
+  width: 800px;
+  background-color: #f46d6d;
+  padding: 20px;
+}
